@@ -19,4 +19,5 @@
 * [随机森林](sui-ji-sen-lin.md)
 * [Bagging](bagging.md)
 * [Boosting](boosting.md)
+* [参考文献](can-kao-wen-xian.md)
 
