@@ -6,5 +6,5 @@
 
 我们也可以看一下决策树随深度的变化，预测的效果如何
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 

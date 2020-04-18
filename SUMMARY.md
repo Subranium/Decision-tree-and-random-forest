@@ -15,6 +15,8 @@
   * [如何判断决策树的泛化能力是否提升](jian-zhi/ru-he-pan-duan-jue-ce-shu-de-fan-hua-neng-li-shi-fou-ti-sheng.md)
   * [预剪枝](jian-zhi/yu-jian-zhi.md)
   * [后剪枝](jian-zhi/hou-jian-zhi.md)
+* [连续值处理](lian-xu-zhi-chu-li.md)
+* [缺失值处理](que-shi-zhi-chu-li.md)
 * [实战](shi-zhan/README.md)
   * [决策树实现](shi-zhan/jue-ce-shu-shi-xian.md)
   * [分类](shi-zhan/fen-lei.md)
